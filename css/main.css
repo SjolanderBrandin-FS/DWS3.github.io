@@ -1,0 +1,64 @@
+/*Adjustments that will cut down on html code */
+header {
+    background-color: #922C40;
+    width: auto;
+}
+
+#page-title,
+#form-title {
+    border-bottom: none;
+    color: #1E2640;
+}
+
+
+body {
+    background-color: #f3eac0e1;
+}
+
+h1 {
+    color: #DC9750;
+    text-align: center;
+    border-bottom: .1rem solid #DC9750;
+}
+
+#mission-container {
+    border: .3rem solid #922C40;
+    margin-top: 3rem;
+}
+
+.mission-heads,
+.mission-para {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    text-align: center;
+}
+
+.proj-img {
+    margin-top: 1rem;
+    background-color: #922C40;
+    border: .2rem solid #922C40;
+    border-radius: .3rem;
+}
+
+
+form {
+    background-color: #F3EAC0;
+    border: .3rem solid #922C40;
+}
+
+input {
+    border: .1rem solid #922C40;
+    border-radius: .3rem;
+}
+
+.input {
+    margin-bottom: 1rem;
+}
+
+
+#description {
+    height: 10rem;
+    width: 100%;
+
+}
